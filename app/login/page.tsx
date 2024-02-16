@@ -11,6 +11,7 @@ export default function LoginPage() {
           </div>
         </div>
         <LoginForm />
+        <footer>Curso Terminado por Jorge Alberto Lopez Romero</footer>
       </div>
     </main>
   );
